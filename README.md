@@ -1,9 +1,11 @@
+![.NET](https://github.com/aimenux/LastItemBenchDemo/workflows/.NET/badge.svg)
+
 # LastItemBenchDemo
 ```
 Benchmarking various ways to get last item from collection (list, array)
 ```
 
-In this demo, i m using [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) library in order to benchmark various ways of finding last item in a collection :
+In this demo, i m using [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) library in order to benchmark various ways of finding last item in a collection (list, array) :
 >
 > :one: Using linq
 >
