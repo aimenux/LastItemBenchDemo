@@ -1,4 +1,4 @@
-![.NET 5](https://github.com/aimenux/LastItemBenchDemo/workflows/.NET/badge.svg)
+![.NET 5](https://github.com/aimenux/LastItemBenchDemo/workflows/.NET%205/badge.svg)
 
 # LastItemBenchDemo
 ```
